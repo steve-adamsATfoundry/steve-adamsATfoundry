@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steve, my gitHub handle is: @steve-adamsATfoundry
-- 👀 I’m working on Amber, currently exploring the OpenAssetIO project in conjunction with Research
-- 🌱 I’m currently learning Python and various Nuke tools and workflows
+- 👀 I’m working on Nuke's UV 3D team, currently exploring GeoExport
+- 🌱 I’m currently entrenched in developing Python automation skills and various Nuke tools and workflows
 - 📫 How to reach me ... #email: steve.adams@foundry.com
 
 <!---
